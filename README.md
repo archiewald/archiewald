@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! My name is Artur. I enjoy creating interactive web applications with TypeScript. When I find some time I share my experiences on my tech blog [kozubek.dev](https://www.kozubek.dev/).
 
 <!--
 **archiewald/archiewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
