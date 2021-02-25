@@ -1,6 +1,6 @@
 Hi 👋 My name is Artur.
 
-I enjoy creating interactive web applications with TypeScript.
+I enjoy creating interactive web applications with JavaScript/TypeScript.
 
 When I find some time I share my experiences on my tech blog [kozubek.dev](https://www.kozubek.dev/).
 <!--
